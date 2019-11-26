@@ -13,3 +13,12 @@ Example of a simple photo list app in React Native and Flutter. This is an examp
 3. Add the files in the `/Flutter` folder in this repo to your project
 4. In the `unsplash.dart` file, add your token
 
+## Helpful Links
+### React Native
+- [React Native Homepage](https://facebook.github.io/react-native/)
+- [Why AirBnB Dropped React Native](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a)
+
+
+### Flutter
+- [Flutter Home Page](https://flutter.dev)
+
