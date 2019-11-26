@@ -10,5 +10,6 @@ Example of a simple photo list app in React Native and Flutter. This is an examp
 ## Flutter
 1. Follow the setup instructions for Flutter from [https://flutter.dev](https://flutter.dev)
 2. Create a Developer account with Unsplash and generate an API token
-3. 
+3. Add the files in the `/Flutter` folder in this repo to your project
+4. In the `unsplash.dart` file, add your token
 
